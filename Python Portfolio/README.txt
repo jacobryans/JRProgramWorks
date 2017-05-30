@@ -1,6 +1,10 @@
 This is a portfolio for all of my works in Python.
 Read below for descriptions on each project.
 
+# All code is property of Jacob Ryans and was solely worked on by
+# him alone. To use any code in this repository, please give credit
+# to the creator
+
 Hack.Out -
 My biggest overall Python project, was done in 75 hours using the
 pygame library. I did this project after programming in Python for
